@@ -1,0 +1,120 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "infinite.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "#Tile Set": {
+            "dynamicWrapping": true
+        },
+        "/sp/projects/games/bevy/elemental-dawn/dev_assets/map1.tmx": {
+            "scale": 0.802490234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 440.5038028597504,
+                "y": 7.476726498326684
+            }
+        },
+        "/sp/projects/games/bevy/elemental-dawn/dev_assets/tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "Tileset1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "finite.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 133.5,
+                "y": 161
+            }
+        },
+        "finite_embedded.tmx": {
+            "scale": 2.56203125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 162.17600780630602,
+                "y": 179.54503872659632
+            }
+        },
+        "finite_embedded.tmx#Tile Set": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "infinite.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -137.5,
+                "y": -325
+            }
+        },
+        "infinite_embedded.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 228.5,
+                "y": 0
+            }
+        },
+        "infinite_embedded.tmx#Tile Set": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map1.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 174.25,
+                "y": 176.5
+            }
+        }
+    },
+    "last.imagePath": "/sp/projects/games/bevy/support/bevy_ecs_tiled/assets/tiles",
+    "map.fixedSize": true,
+    "map.height": 10,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 10,
+    "openFiles": [
+        "infinite_embedded.tmx",
+        "finite_embedded.tmx",
+        "finite.tmx",
+        "Tileset1.tsx",
+        "infinite.tmx",
+        "/sp/projects/games/bevy/elemental-dawn/dev_assets/map1.tmx",
+        "map1.tmx"
+    ],
+    "project": "example.tiled-project",
+    "recentFiles": [
+        "infinite_embedded.tmx",
+        "finite_embedded.tmx",
+        "finite.tmx",
+        "Tileset1.tsx",
+        "map1.tmx",
+        "/sp/projects/games/bevy/elemental-dawn/dev_assets/map1.tmx",
+        "infinite.tmx"
+    ],
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
