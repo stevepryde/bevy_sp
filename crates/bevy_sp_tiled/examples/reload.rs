@@ -1,9 +1,9 @@
 //! This example demonstrates how to load and unload maps.
 
 use bevy::prelude::*;
-use bevy_ecs_tiled::prelude::*;
 use bevy_ecs_tilemap::prelude::*;
 use bevy_inspector_egui::quick::WorldInspectorPlugin;
+use bevy_sp_tiled::prelude::*;
 
 mod helper;
 

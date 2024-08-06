@@ -7,7 +7,7 @@ use crate::names::ObjectNameFilter;
 
 /// Load shapes from an object layer as physics colliders.
 ///
-/// By default `bevy_ecs_tiled` will only process object layers
+/// By default `bevy_sp_tiled` will only process object layers
 /// named in `collision_layer_names` in `TiledMapSettings`,
 /// and tileset collision shapes named in `collision_object_names`.
 ///

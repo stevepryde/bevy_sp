@@ -2,7 +2,7 @@
 
 Support for 2D tilemaps created with the Tiled map editor.
 
-Originally copied from `bevy_ecs_tiled` 0.3.3 and modified as needed for 
+Originally copied from `bevy_sp_tiled` 0.3.3 and modified as needed for 
 my own purposes.
 
 ## LICENSE

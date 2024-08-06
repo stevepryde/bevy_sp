@@ -1,9 +1,9 @@
 //! This example shows a finite map with an external tileset and Rapier physics.
 
 use bevy::prelude::*;
-use bevy_ecs_tiled::prelude::*;
 use bevy_ecs_tilemap::prelude::*;
 use bevy_rapier2d::prelude::*;
+use bevy_sp_tiled::prelude::*;
 
 mod helper;
 

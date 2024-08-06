@@ -1,7 +1,7 @@
 //! This example shows an infinite map with an external tileset and Rapier physics.
 
 use bevy::prelude::*;
-use bevy_ecs_tiled::prelude::*;
+use bevy_sp_tiled::prelude::*;
 use bevy_ecs_tilemap::prelude::*;
 use bevy_rapier2d::prelude::*;
 
@@ -27,7 +27,7 @@ fn startup(mut commands: Commands, asset_server: Res<AssetServer>) {
     commands.spawn(TiledMapBundle {
         tiled_map: map_handle,
         tiled_settings: TiledMapSettings {
-            // By default `bevy_ecs_tiled` will add colliders for all object layers.
+            // By default `bevy_sp_tiled` will add colliders for all object layers.
             // This shows how we can specify exactly which layers and objects to process.
             collision_object_names: ObjectNames::Names(vec!["collision".to_string()]),
             ..default()

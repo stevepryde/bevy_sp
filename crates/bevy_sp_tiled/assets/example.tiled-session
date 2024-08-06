@@ -90,7 +90,7 @@
             }
         }
     },
-    "last.imagePath": "/sp/projects/games/bevy/support/bevy_ecs_tiled/assets/tiles",
+    "last.imagePath": "/sp/projects/games/bevy/support/bevy_sp_tiled/assets/tiles",
     "map.fixedSize": true,
     "map.height": 10,
     "map.lastUsedFormat": "tmx",

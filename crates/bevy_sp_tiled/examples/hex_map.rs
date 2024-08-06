@@ -1,7 +1,7 @@
 //! This example shows a finite hexagonal map with an external tileset, multiple layers and animated tiles.
 
 use bevy::prelude::*;
-use bevy_ecs_tiled::prelude::*;
+use bevy_sp_tiled::prelude::*;
 use bevy_ecs_tilemap::prelude::*;
 
 mod helper;
